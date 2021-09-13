@@ -1,4 +1,5 @@
 # SDDI Researchers
+*Please make a pull request and add yourself to the list.*   
 
 Paige Rodeghero, PhD ([Clemson University](www.clemsonhfse.com)) (Autism and SE, Remote work).     
 Bianca Trinkenreich, PhD Student (Northern Arizona University) (Working now with Women in SE and OSS) - biancatrink@github.io.  
