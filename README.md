@@ -2,7 +2,7 @@
 *Please make a pull request and add yourself to the list.*   
 
 [Paige Rodeghero, PhD](paigerodeghero.com) ([Clemson University](www.clemsonhfse.com)) (Autism and SE, Remote work).     
-Bianca Trinkenreich, PhD Student (Northern Arizona University) (Working now with Women in SE and OSS) - biancatrink@github.io.  
+[Bianca Trinkenreich](biancatrink@github.io), PhD Student (Northern Arizona University) (Working now with Women in SE and OSS).  
 Alexander Serebrenik, PhD ([Eindhoven University of Technology](https://www.win.tue.nl/~aserebre/)(gender, age, LGBTIQ+, country).   
 [Anita Sarma, PhD](http://web.engr.oregonstate.edu/~sarmaa/) (Oregon State University) (How humans think, Diveristy & Inclusion, OSS).  
 Ann Barcomb, PhD ([University of Calgary](https://www.ucalgary.ca/)) (Free/Libre/Open Source software, interested in ageism, inclusion).  
