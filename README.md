@@ -1,7 +1,7 @@
 # Software Developer Diversity and Inclusion (SDDI) Researchers
 *Please make a pull request and add yourself to the list.*   
 
-Name | Affiliation| Areas
+Name | Affiliation| Research Areas
 ------------------------- | ------------- | -------------
 [Paige Rodeghero, PhD](http://paigerodeghero.com) | [Clemson University](www.clemsonhfse.com) |Autism and SE, Remote/Hybrid work, Productivity         
 [Bianca Trinkenreich](biancatrink@github.io) | Northern Arizona University| Women in SE and OSS  
