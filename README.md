@@ -3,7 +3,7 @@
 
 Name | Affiliation| Research Areas
 ------------------------- | ------------- | -------------
-[Paige Rodeghero, PhD](http://paigerodeghero.com) | [Clemson University](www.clemsonhfse.com) |Autism and SE, Remote/Hybrid work, Productivity         
+[Paige Rodeghero, PhD](http://paigerodeghero.com) | [Clemson University](www.clemsonhfse.com) |Autism, Remote/Hybrid work, Productivity, Onboarding, Newcomers         
 [Bianca Trinkenreich](biancatrink@github.io) | Northern Arizona University| Women in SE and OSS  
 [Alexander Serebrenik, PhD](https://www.win.tue.nl/~aserebre/) | [Eindhoven University of Technology](https://www.win.tue.nl/) | gender, age, LGBTIQ+, country 
 [Anita Sarma, PhD](http://web.engr.oregonstate.edu/~sarmaa/) | Oregon State University | How humans think, Diveristy & Inclusion, OSS  
