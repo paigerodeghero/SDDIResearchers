@@ -11,3 +11,4 @@ Amiangshu Bosu, PhD ([Wayne State University](www.amiangshu.com)) (Diversity, Eq
 Grischa Liebel, PhD ([Reykjavik Uni, Iceland](https://ru.is)) (Gender and neurodiversity in education, remote collaboration in software design).     
 [Igor Steinmacher, PhD](http://www.igor.pro.br) (UTFPR, Brazil) (Diversity and Inclusion in OSS, Newcomer contributor experience).        
 [Kelly Blincoe, PhD](http://kblincoe.github.io) ([University of Auckland](https://www.auckland.ac.nz)) (gender, Diversity and Inclusion, OSS).
+[Camila Sarmento, PhD student] (camilasarmento@copin.ufcg.edu.br) (Federal University of Campina Grande) (diversity, country, gender)
