@@ -12,4 +12,4 @@ Grischa Liebel, PhD ([Reykjavik Uni, Iceland](https://ru.is)) (Gender and neurod
 [Igor Steinmacher, PhD](http://www.igor.pro.br) (UTFPR, Brazil) (Diversity and Inclusion in OSS, Newcomer contributor experience).        
 [Kelly Blincoe, PhD](http://kblincoe.github.io) ([University of Auckland](https://www.auckland.ac.nz)) (gender, Diversity and Inclusion, OSS).     
 [Reed Milewicz, PhD](https://rmmilewi.github.io) ([Sandia National Laboratories](https://www.sandia.gov)) (gender, LGBTIQ+, autism, productivity).    
-[Camila Sarmento, PhD student](camilasarmento@copin.ufcg.edu.br) (Federal University of Campina Grande) (diversity, country, gender)
+[Camila Sarmento](camilasarmento@copin.ufcg.edu.br) (Federal University of Campina Grande) (diversity, country, gender)
