@@ -7,7 +7,7 @@
 [Anita Sarma, PhD](http://web.engr.oregonstate.edu/~sarmaa/) (Oregon State University) (How humans think, Diveristy & Inclusion, OSS).  
 Ann Barcomb, PhD ([University of Calgary](https://www.ucalgary.ca/)) (Free/Libre/Open Source software, interested in ageism, inclusion).  
 [Amiangshu Bosu, PhD](www.amiangshu.com) (Wayne State University) (Diversity, Equity, and Inclusion, Biases).   
-[Sayma Sultana](https://sayma23.github.io/), Wayne [State University] (Diversity, Equity, and Inclusion, Biases).  
+[Sayma Sultana](https://sayma23.github.io/),  (Wayne State University) (Diversity, Equity, and Inclusion, Biases).  
 Grischa Liebel, PhD ([Reykjavik Uni, Iceland](https://ru.is)) (Gender and neurodiversity in education, remote collaboration in software design).     
 [Igor Steinmacher, PhD](http://www.igor.pro.br) (UTFPR, Brazil) (Diversity and Inclusion in OSS, Newcomer contributor experience).        
 [Kelly Blincoe, PhD](http://kblincoe.github.io) ([University of Auckland](https://www.auckland.ac.nz)) (gender, Diversity and Inclusion, OSS).     
