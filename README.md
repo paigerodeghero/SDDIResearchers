@@ -2,7 +2,7 @@
 *Please make a pull request and add yourself to the list.*   
 
 Name | Affiliation| Areas
------------------ | ------------- | -------------
+------------------------- | ------------- | -------------
 [Paige Rodeghero, PhD](http://paigerodeghero.com) | [Clemson University](www.clemsonhfse.com) |Autism and SE, Remote/Hybrid work, Productivity         
 [Bianca Trinkenreich](biancatrink@github.io) | Northern Arizona University| Women in SE and OSS  
 [Alexander Serebrenik, PhD](https://www.win.tue.nl/~aserebre/) | [Eindhoven University of Technology](https://www.win.tue.nl/) | gender, age, LGBTIQ+, country 
