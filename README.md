@@ -16,9 +16,6 @@ Grischa Liebel, PhD | [Reykjavik Uni, Iceland](https://ru.is) | Gender and neuro
 [Reed Milewicz, PhD](https://rmmilewi.github.io) | [Sandia National Laboratories](https://www.sandia.gov) | gender, LGBTIQ+, autism, productivity    
 [Camila Sarmento](camilasarmento@copin.ufcg.edu.br) | Federal University of Campina Grande | diversity, country, gender
 [Sumon Biswas](https://sumonbis.github.io/) | [Iowa State University](https://www.iastate.edu/) | Fairness, Inclusion, Bias
-
 [Gema Rodriguez-Perez,PhD](https://gemarodri.github.io/PersonalWeb/)| [University of British Columbia](https://cmps.ok.ubc.ca) | Race and Ethnicity, Diversity & Inclusion, OSS  
-
 [Yang Yue](https://www.linkedin.com/in/dylan-yue) | [University of California, Irvine](https://www.uci.edu) | OSS, Newcomers
-
 [Rodrigo Santos, PhD](https://br.linkedin.com/in/profrodrigosantos) | UNIRIO, Brazil | Sustainability, Diversity and Influence in Software Ecosystems 
