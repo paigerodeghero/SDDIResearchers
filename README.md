@@ -21,3 +21,4 @@ Grischa Liebel, PhD | [Reykjavik Uni, Iceland](https://ru.is) | Gender and neuro
 
 [Yang Yue](https://www.linkedin.com/in/dylan-yue) | [University of California, Irvine](https://www.uci.edu) | OSS, Newcomers
 
+[Rodrigo Santos, PhD](https://br.linkedin.com/in/profrodrigosantos) | UNIRIO, Brazil | Sustainability, Diversity and Influence in Software Ecosystems 
