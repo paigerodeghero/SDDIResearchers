@@ -7,6 +7,7 @@ Name | Affiliation| Research Areas
 [Bianca Trinkenreich](biancatrink@github.io) | Northern Arizona University| Women in SE and OSS  
 [Alexander Serebrenik, PhD](https://www.win.tue.nl/~aserebre/) | [Eindhoven University of Technology](https://www.win.tue.nl/) | gender, age, LGBTIQ+, country 
 [Anita Sarma, PhD](http://web.engr.oregonstate.edu/~sarmaa/) | Oregon State University | How humans think, Diveristy & Inclusion, OSS  
+[Mariam Guizani, MS](https://github.com/mariamgui) | PhD student at Oregon State University | Improving Diversity & Inclusion in OSS 
 Ann Barcomb, PhD | [University of Calgary](https://www.ucalgary.ca/) | Free/Libre/Open Source software, interested in ageism, inclusion  
 [Amiangshu Bosu, PhD](www.amiangshu.com) | Wayne State University | Diversity, Equity, and Inclusion, Biases   
 [Sayma Sultana](https://sayma23.github.io/) | Wayne State University | Diversity, Equity, and Inclusion, Biases  
