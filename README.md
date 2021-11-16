@@ -20,3 +20,4 @@ Grischa Liebel, PhD | [Reykjavik Uni, Iceland](https://ru.is) | Gender and neuro
 [Gema Rodriguez-Perez,PhD](https://gemarodri.github.io/PersonalWeb/)| [University of British Columbia](https://cmps.ok.ubc.ca) | Race and Ethnicity, Diversity & Inclusion, OSS  
 [Yang Yue](https://www.linkedin.com/in/dylan-yue) | [University of California, Irvine](https://www.uci.edu) | OSS, Newcomers
 [Rodrigo Santos, PhD](https://br.linkedin.com/in/profrodrigosantos) | UNIRIO, Brazil | Sustainability, Diversity and Influence in Software Ecosystems 
+[James Dominic, MS](https://domini4.github.io./) | Clemson, USA | Autism , Remote/Hybrid work, Collaboration, Onborading
